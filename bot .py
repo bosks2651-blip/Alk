@@ -12,7 +12,7 @@ BOT_TOKEN = "8924243393:AAGtWZk3qCUceEpVmQdmxxnOxVEhsdXfF68"
 API_KEY = "AK_6JvSTn1GdrcssiVvlVFRs5Uw_NxcJshy"
 API_BASE = "https://superassets.in"
 HEADERS = {"X-API-Key": API_KEY}
-DATA_FILE = "/home/nonbios/bot_data.json"
+
 
 # States
 (WAITING_MODE, WAITING_NUMBER, WAITING_SERVICE_AUTO, WAITING_FIREBASE_URL,
