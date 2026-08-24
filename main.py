@@ -8,7 +8,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, ConversationHandler, filters, ContextTypes
 
 # Config
-BOT_TOKEN = "8924243393:AAGtWZk3qCUceEpVmQdmxxnOxVEhsdXfF68"
+BOT_TOKEN = "8844927653:AAHQgGoVqeUjZzW7Ew6z6h5tTHQBrJYi7-4"
 API_KEY = "AK_6JvSTn1GdrcssiVvlVFRs5Uw_NxcJshy"
 API_BASE = "https://superassets.in"
 HEADERS = {"X-API-Key": API_KEY}
